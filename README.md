@@ -1,32 +1,18 @@
- # 🎮 Mustafa Gamerz
+
+# 🎮 Mustafa Gamerz
 
 **Mustafa Gamerz** is an Android gaming platform that brings together a wide collection of Android games, PC ports, classic console games, applications, and emulators in one place.
 
 The app provides an organized and easy-to-use interface, allowing users to browse different gaming categories, explore available titles, and access their download options.
 
-
-
 ## 📸 Screenshots
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://i.ibb.co/CKNFmVs6/Screenshot-com-mustafagmz-gamerz-t-url.jpg" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://i.ibb.co/93fnrW5b/Screenshot-com-mustafagmz-gamerz-t-url.jpg" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://i.ibb.co/zVPJzt5z/Screenshot-com-mustafagmz-gamerz-t-url.jpg" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://i.ibb.co/Ngrx9TQx/Screenshot-com-mustafagmz-gamerz-t-url.jpg" width="100%" />
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="https://i.ibb.co/CKNFmVs6/Screenshot-com-mustafagmz-gamerz-t-url.jpg" width="23%" />
+  <img src="https://i.ibb.co/93fnrW5b/Screenshot-com-mustafagmz-gamerz-t-url.jpg" width="23%" />
+  <img src="https://i.ibb.co/zVPJzt5z/Screenshot-com-mustafagmz-gamerz-t-url.jpg" width="23%" />
+  <img src="https://i.ibb.co/Ngrx9TQx/Screenshot-com-mustafagmz-gamerz-t-url.jpg" width="23%" />
+</p>
 
 ## 🎮 Features
 
@@ -57,6 +43,8 @@ The app provides an organized and easy-to-use interface, allowing users to brows
 ## 📢 Updates
 
 The application will continue to receive improvements, new content, and regular updates to provide a better gaming experience.
+
+---
 
 **Developer:** Mustafa Gamerz
 
