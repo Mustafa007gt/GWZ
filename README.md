@@ -5,14 +5,28 @@
 The app provides an organized and easy-to-use interface, allowing users to browse different gaming categories, explore available titles, and access their download options.
 
 
+
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="https://i.ibb.co/CKNFmVs6/Screenshot-com-mustafagmz-gamerz-t-url.jpg" width="24%" />
-  <img src="https://i.ibb.co/93fnrW5b/Screenshot-com-mustafagmz-gamerz-t-url.jpg" width="24%" />
-  <img src="https://i.ibb.co/zVPJzt5z/Screenshot-com-mustafagmz-gamerz-t-url.jpg" width="24%" />
-  <img src="https://i.ibb.co/Ngrx9TQx/Screenshot-com-mustafagmz-gamerz-t-url.jpg" width="24%" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://i.ibb.co/CKNFmVs6/Screenshot-com-mustafagmz-gamerz-t-url.jpg" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://i.ibb.co/93fnrW5b/Screenshot-com-mustafagmz-gamerz-t-url.jpg" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://i.ibb.co/zVPJzt5z/Screenshot-com-mustafagmz-gamerz-t-url.jpg" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://i.ibb.co/Ngrx9TQx/Screenshot-com-mustafagmz-gamerz-t-url.jpg" width="100%" />
+    </td>
+  </tr>
+</table>
+
 
 ## 🎮 Features
 
